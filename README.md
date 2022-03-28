@@ -23,7 +23,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - <img align="center" alt="Dario-CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 - <img align="center" alt="Dario-Ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 - <img align="center" alt="Dario-Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
-- <img align="center" alt="Dario-React" src="ttps://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
+- <img align="center" alt="Dario-React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
 
 
 
