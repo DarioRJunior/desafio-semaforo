@@ -12,7 +12,7 @@ Projeto: 🚀Concluido
 
 ## 💻 Objetivo
  
- Portfólio - Site contendo todas as minhas informações e habilidades.
+ Desafio feito pelo curso do João Bibiano - React js dominando o Front-end! 
 
 
 ## 🛠 Tecnologias
