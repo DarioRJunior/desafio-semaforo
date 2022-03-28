@@ -6,6 +6,7 @@ export const Semaforo = () => {
 
     return (
         <div className="container">
+            <h1>Selecione a cor que desejar para ver a mensagem!</h1>
             <div className="semafaro">
                 <button className={`vermelho ${selected === "vermelho" ? "selected" : ""}`} onClick={() => setSelected("vermelho")}/>
                 <button className={`amarelo ${selected === "amarelo" ? "selected" : ""}`} onClick={() => setSelected("amarelo")}/>
