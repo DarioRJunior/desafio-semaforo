@@ -15,6 +15,10 @@
     color: #eef0f2;
 }
 
+.container >h1{
+    margin-bottom: 10px;
+}
+
 .semafaro{
     width: 100px;
     height: 230px;
